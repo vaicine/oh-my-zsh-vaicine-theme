@@ -1,3 +1,6 @@
+# vaicine.zsh-theme
+# https://github.com/vaicine/oh-my-zsh-vaicine-theme
+
 #RVM settings
 if [[ -s ~/.rvm/scripts/rvm ]] ; then 
   RPS1="%{$fg[yellow]%}rvm:%{$reset_color%}%{$fg[red]%}\$(~/.rvm/bin/rvm-prompt)%{$reset_color%} $EPS1"
