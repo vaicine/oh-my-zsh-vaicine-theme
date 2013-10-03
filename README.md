@@ -8,6 +8,13 @@ Preview
 
 ![Preview](http://github.com/vaicine/oh-my-zsh-vaicine-theme/raw/master/screenshot.png)
 
+What are them there symbols?
+-------
+
+❤ = You've made changes<br/>
+▴ = You've got commits to push up<br/>
+▾ = You've got commits to pull down
+
 Set Up
 ------
 
